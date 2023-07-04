@@ -1,7 +1,7 @@
 # Portal-IA-Bot
 Informations sur le bot de Portalia
 
-help:
+help:             
 /==============================__**PORTALIA**__==============================\\           
 | **-info** : affiche ce message                                         
 | **-site** : affiche le lien du site de Portalia                        
