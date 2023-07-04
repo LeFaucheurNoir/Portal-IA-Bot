@@ -10,4 +10,4 @@ help:
 | **-bots** : affiche la liste de tout les bots discord crees par Portalia Studio 
 \\\==============================__**PORTALIA**__==============================/ 
 
-Si le bot a des problèmes veuillez nous le signaler via une issues ou via discord par ticket sur le serveur discord de Portalia ou en message privé a Le_FaucheurNoir#5381
+Si le bot a des problèmes veuillez nous le signaler via une issues ou via discord par ticket sur le serveur discord de Portalia ou en message privé à Le_FaucheurNoir#5381
