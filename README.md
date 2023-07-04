@@ -2,7 +2,7 @@
 Informations sur le bot de Portalia
 
 help:
-/==============================__**PORTALIA**__==============================\\
+/==============================__**PORTALIA**__==============================\\           
 | **-info** : affiche ce message                                         
 | **-site** : affiche le lien du site de Portalia                        
 | **-ip**   : affiche l'ip du serveur minecraft et la version            
