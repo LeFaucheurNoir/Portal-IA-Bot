@@ -6,7 +6,7 @@ help:
 | **-info** : affiche ce message                                         
 | **-site** : affiche le lien du site de Portalia                        
 | **-ip**   : affiche l'ip du serveur minecraft et la version            
-| **-recrutement** : affiche si oui ou non les recrutements sont ouverts
+| **-recrutement** : affiche si oui ou non les recrutements sont ouverts 
 | **-bots** : affiche la liste de tout les bots discord crees par Portalia Studio 
 \\\==============================__**PORTALIA**__==============================/ 
 
